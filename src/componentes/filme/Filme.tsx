@@ -1,4 +1,4 @@
-import Imagem from "./../"
+
 
 function Filme(){
     return(
